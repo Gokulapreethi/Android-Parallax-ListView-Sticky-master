@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_a3a9713f5362fe4be044a91a41f516a74622b97c.jar" />
+    </item>
+    <item
+        jar="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_0a25136e095811ad335592cfa47445b8a812231a.jar" />
+    </item>
+    <item
+        jar="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_268b28ea0ccdf418ec667e98339000985b712207.jar" />
+    </item>
+    <item
+        jar="C:\Users\Preethi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_b6f6acb9391000fbd998cb7a690aa77061c3aa5e.jar" />
+    </item>
+    <item
+        jar="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_429122a850c5b3e4b3236394f878e778ec455a81.jar" />
+    </item>
+    <item
+        jar="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\sample_Android\Android-Parallax-ListView-Sticky-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_51ef37639384928c3b5c4470bf1cad1a9b7c3156.jar" />
+    </item>
+
+</items>
